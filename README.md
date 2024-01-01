@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisekh Barman</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" Src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="coding" Src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barman9609&label=Profile%20views&color=0e75b6&style=flat" alt="barman9609" /> </p>
 
 - 🌱 I’m currently learning **Computer Science**
